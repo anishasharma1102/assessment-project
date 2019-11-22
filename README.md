@@ -4,21 +4,18 @@
 
 ## TECHNOLOGIES
 * HTML
+
 * CSS
-* JAVASCRIPT
+* JQUERY
 * AJAX
 * BOOTSTRAP
 
 ## ENDPOINTS
                       
 
-* Current Match API   https://cricapi.com/api/matches
-* Old Match API       https://cricapi.com/api/cricket
-* Match Calender      https://cricapi.com/api/matchCalendar
-* Match Score         https://cricapi.com/api/cricketScore
-* Players Statistics  https://cricapi.com/api/playerStats
-
+* Search API   https://hn.algolia.com/api/v1/search
 ## Links For Live Websites
-* myResume            https://shivanisaini347.github.io/My-Resume/
+* myResume            https://anishasharma1102.github.io/My-Resume/
 * assessment-project  
         
+
